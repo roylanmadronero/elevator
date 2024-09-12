@@ -1,0 +1,14 @@
+C:\repo\ConsoleApp-Exam\ConsoleApp-Exam\bin\Debug\net8.0\ConsoleApp-Exam.exe
+C:\repo\ConsoleApp-Exam\ConsoleApp-Exam\bin\Debug\net8.0\ConsoleApp-Exam.deps.json
+C:\repo\ConsoleApp-Exam\ConsoleApp-Exam\bin\Debug\net8.0\ConsoleApp-Exam.runtimeconfig.json
+C:\repo\ConsoleApp-Exam\ConsoleApp-Exam\bin\Debug\net8.0\ConsoleApp-Exam.dll
+C:\repo\ConsoleApp-Exam\ConsoleApp-Exam\bin\Debug\net8.0\ConsoleApp-Exam.pdb
+C:\repo\ConsoleApp-Exam\ConsoleApp-Exam\obj\Debug\net8.0\ConsoleApp-Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\ConsoleApp-Exam\ConsoleApp-Exam\obj\Debug\net8.0\ConsoleApp-Exam.AssemblyInfoInputs.cache
+C:\repo\ConsoleApp-Exam\ConsoleApp-Exam\obj\Debug\net8.0\ConsoleApp-Exam.AssemblyInfo.cs
+C:\repo\ConsoleApp-Exam\ConsoleApp-Exam\obj\Debug\net8.0\ConsoleApp-Exam.csproj.CoreCompileInputs.cache
+C:\repo\ConsoleApp-Exam\ConsoleApp-Exam\obj\Debug\net8.0\ConsoleApp-Exam.dll
+C:\repo\ConsoleApp-Exam\ConsoleApp-Exam\obj\Debug\net8.0\refint\ConsoleApp-Exam.dll
+C:\repo\ConsoleApp-Exam\ConsoleApp-Exam\obj\Debug\net8.0\ConsoleApp-Exam.pdb
+C:\repo\ConsoleApp-Exam\ConsoleApp-Exam\obj\Debug\net8.0\ConsoleApp-Exam.genruntimeconfig.cache
+C:\repo\ConsoleApp-Exam\ConsoleApp-Exam\obj\Debug\net8.0\ref\ConsoleApp-Exam.dll
