@@ -1,0 +1,15 @@
+/workspace/ConsoleApp-Exam/bin/Release/net8.0/ConsoleApp-Exam
+/workspace/ConsoleApp-Exam/bin/Release/net8.0/ConsoleApp-Exam.deps.json
+/workspace/ConsoleApp-Exam/bin/Release/net8.0/ConsoleApp-Exam.runtimeconfig.json
+/workspace/ConsoleApp-Exam/bin/Release/net8.0/ConsoleApp-Exam.dll
+/workspace/ConsoleApp-Exam/bin/Release/net8.0/ConsoleApp-Exam.pdb
+/workspace/ConsoleApp-Exam/obj/Release/net8.0/ConsoleApp-Exam.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/ConsoleApp-Exam/obj/Release/net8.0/ConsoleApp-Exam.AssemblyInfoInputs.cache
+/workspace/ConsoleApp-Exam/obj/Release/net8.0/ConsoleApp-Exam.AssemblyInfo.cs
+/workspace/ConsoleApp-Exam/obj/Release/net8.0/ConsoleApp-Exam.csproj.CoreCompileInputs.cache
+/workspace/ConsoleApp-Exam/obj/Release/net8.0/ConsoleApp-Exam.sourcelink.json
+/workspace/ConsoleApp-Exam/obj/Release/net8.0/ConsoleApp-Exam.dll
+/workspace/ConsoleApp-Exam/obj/Release/net8.0/refint/ConsoleApp-Exam.dll
+/workspace/ConsoleApp-Exam/obj/Release/net8.0/ConsoleApp-Exam.pdb
+/workspace/ConsoleApp-Exam/obj/Release/net8.0/ConsoleApp-Exam.genruntimeconfig.cache
+/workspace/ConsoleApp-Exam/obj/Release/net8.0/ref/ConsoleApp-Exam.dll
